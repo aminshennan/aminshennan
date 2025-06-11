@@ -51,26 +51,16 @@ Dynamic Data Scientist with expertise in deep learning, computer vision, and NLP
         <img src="https://img.shields.io/badge/Scientific%20Paper%20Summarizer-LoRA%20FLAN--T5--XXL-blue?style=flat-square" alt="Scientific Paper Summarizer"/>
       </a>
     </td>
+      </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/aminshennan/Hand-Sign-language-detection">
         <img src="https://img.shields.io/badge/Arabic%20Sign%20Language-YOLOv5%2FCNN-red?style=flat-square" alt="Arabic Sign Language"/>
       </a>
     </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/aminshennan/Car-Parking-System">
-        <img src="https://img.shields.io/badge/Vehicle%20Detection-YOLO%2FOpenCV-yellow?style=flat-square" alt="Vehicle Detection"/>
-      </a>
-    </td>
     <td align="center">
       <a href="https://github.com/aminshennan/Sentiment-Analysis-of-Women-s-Clothing-E-Commerce-Reviews-Using-Machine-Learning">
         <img src="https://img.shields.io/badge/Sentiment%20Analysis-LSTM%2FCNN%2FFNN-purple?style=flat-square" alt="Sentiment Analysis"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/aminshennan/Marital-Satisfaction-Analysis">
-        <img src="https://img.shields.io/badge/Data%20Mining-Classification%2FClustering-orange?style=flat-square" alt="Data Mining"/>
       </a>
     </td>
   </tr>
