@@ -34,7 +34,7 @@ Dynamic Data Scientist with expertise in deep learning, computer vision, and NLP
   - Engineered Python dataflows and scheduled refreshes
 
 - **Data Analyst Intern** at Asian Football Confederation (AFC) (07/2023 – 10/2023)
-  - Developed a comprehensive Power BI match-analytics dashboard
+  - Developed a comprehensive Power BI match analytics dashboard
   - Integrated 15+ interactive slicers and KPI cards
 
 ### 🚀 Featured Projects
@@ -76,9 +76,6 @@ Dynamic Data Scientist with expertise in deep learning, computer vision, and NLP
   </tr>
 </table>
 
-### 📊 GitHub Stats
-
-![Amin's GitHub stats](https://github-readme-stats.vercel.app/api?username=aminshennan&show_icons=true&theme=radical)
 
 ### 📫 Let's Connect!
 - 💼 [LinkedIn](https://linkedin.com/in/aminshennan)
